@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "かさぶた",
+  "base_artist": "BASI",
+  "createdAt": "2026-03-06T10:13:55.617378Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かさぶた",
+      "artist": "BASI",
+      "has_synced": false,
+      "path": "select/pl_01_かさぶた_BASI.txt"
+    }
+  ]
+}
